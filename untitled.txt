@@ -1,0 +1,13 @@
+We are going to make a couple assumptions here:
+
+All trucks are coming from the company
+
+Truck driver is speeding
+
+
+
+Temperature of the truck compartment is out of good range
+
+
+
+The weather is bad, icy condition over the pass (I-90) that cause road closure
