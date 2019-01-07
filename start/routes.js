@@ -15,5 +15,6 @@
 
 /** @type {typeof import('@adonisjs/framework/src/Route/Manager')} */
 const Route = use('Route')
+ '@adonisjs/mail/providers/MailProvider'
 
 Route.on('/').render('welcome')
